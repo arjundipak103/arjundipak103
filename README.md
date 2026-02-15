@@ -5,7 +5,7 @@
 
 <!-- 👋 Name & Title (Inspired Order) -->
 <h1 align="center">Hi, I'm Arjun Dipak 👋</h1>
-<h3 align="center">6th Grade Student • Future NASA Scientist 🚀 • Game Developer</h3>
+<h3 align="center">12 Years Old • 6th Grade Student • Future NASA Scientist 🚀 • Game Developer</h3>
 
 <!-- 🌌 Inspiration Banner -->
 <p align="center">
