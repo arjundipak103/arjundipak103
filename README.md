@@ -1,80 +1,77 @@
-<!-- ======================= -->
-<!-- 🌌 SPACE THEMED BANNER -->
-<!-- ======================= -->
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=1600&auto=format&fit=crop" width="100%" />
+<!-- 👀 Profile Views (Top Left) -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=arjundipak103&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h1 align="center">🚀 Arjun Dipak 🚀</h1>
-<h3 align="center">6th Grade Student | Future NASA Scientist | Game Developer</h3>
+<!-- 👋 Name & Title (Inspired Order) -->
+<h1 align="center">Hi, I'm Arjun Dipak 👋</h1>
+<h3 align="center">6th Grade Student • Future NASA Scientist 🚀 • Game Developer</h3>
 
+<!-- 🌌 Inspiration Banner -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arjundipak103&label=Mission%20Visitors&color=0b3d91&style=flat" />
+  <img src="https://camo.githubusercontent.com/69f6860b5d1f27c6298ee7f2b5546d5ab21277efa12fb2c82425a0ab02fd380d/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d3166746a4d352d446a6a55466b307568306e43376235683370784e317762774273" alt="banner" width="1000" />
 </p>
 
 ---
 
-# 🛰️ Mission Control: About Me
+## 👨‍🚀 Mission Control: About Me
 
-🔹 **Name:** Arjun Dipak  
-🔹 **Grade:** 6th Grade  
-🔹 **School:** Dewitt Perry Middle School  
-🔹 **Dream Career:** NASA Scientist  
-🔹 **Specialty:** Game Development  
-
+- 🎓 6th Grade Student at Dewitt Perry Middle School  
+- 🚀 Dream: Become a NASA Scientist  
+- 💻 Love coding games and building cool projects  
 - 🌌 Passionate about space exploration  
-- 💻 Love coding and creating games  
-- 🧠 Always curious and learning new things  
-- 🚀 Working hard toward joining NASA one day  
+- 🧠 Always learning something new  
 
 ---
 
-# 🌠 Current Missions
+## 🌠 Current Missions
 
-🕹️ Building fun and interactive games  
-📚 Learning Python and JavaScript  
-🔭 Studying space, planets, and rockets  
-🧩 Solving coding challenges  
+- 🕹️ Building fun coding games  
+- 🐍 Learning Python  
+- 🌐 Learning JavaScript  
+- 🔭 Studying space science  
 
 ---
 
-# 🛠️ Space Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,html,css" />
 </p>
 
-- 🐍 Python  
-- 🌐 HTML  
-- 🎨 CSS  
-- ⚡ JavaScript  
+---
+
+## 🌎 Long-Term Mission Goals
+
+- 🛰️ Work at NASA  
+- 🚀 Design space missions  
+- 🔴 Contribute to Mars exploration  
+- 🎮 Build educational space games  
 
 ---
 
-# 🌎 Long-Term Mission Goals
-
-- 🛰️ Become a scientist at NASA  
-- 🚀 Help design rockets or space missions  
-- 👨‍💻 Create educational space games  
-- 🌌 Contribute to Mars exploration  
-
----
-
-# 📊 Mission Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjundipak103&show_icons=true&theme=dark&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjundipak103&layout=compact&theme=dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arjundipak103&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjundipak103&layout=compact&theme=github_dark&hide_border=true" height="180"/>
 </p>
 
 ---
 
-# 🌟 Space Inspiration
+## 📈 Activity Graph
 
-Future Scientist at NASA 🚀  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arjundipak103&theme=github-compact" />
+</p>
 
-"The sky is not the limit — it's just the beginning."
+---
+
+## 🚀 Mission Dashboard
+
+<p align="center">
+  <img src="github-profile-readme.png" width="100%" />
+</p>
 
 ---
 
